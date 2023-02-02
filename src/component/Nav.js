@@ -7,10 +7,10 @@ function nav(){
                 <a rel="home" href="home">Home</a>
             </li>
             <li>
-                <a rel="menu" href="menu">Menu</a>
+                <a rel="about" href="about">About</a>
             </li>
             <li>
-                <a rel="about" href="about">About</a>
+                <a rel="menu" href="menu">Menu</a>
             </li>
             <li>
                 <a rel="contact" href="contact">Contact</a>
