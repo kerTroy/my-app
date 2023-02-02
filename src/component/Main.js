@@ -1,6 +1,6 @@
 import React from "react";
 
-function body() {
+function main() {
     return(
         <div>
             <h2>This body section.</h2>
@@ -9,4 +9,4 @@ function body() {
     )
 }
 
-export default body;
+export default main;
